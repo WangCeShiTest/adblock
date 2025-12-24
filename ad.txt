@@ -22,26 +22,8 @@
 
 # [247realmedia.com]
 127.0.0.1 247realmedia.com
-
-# 百度广告
 127.0.0.1 pos.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 ad.baidu.com
 127.0.0.1 crl.baidu.com
 
-# 哔哩哔哩广告
-127.0.0.1 upos-hz-mirrorakam.akamaized.net
-127.0.0.1 upos-hz-mirrorhk.akamaized.net
-127.0.0.1 upos-hz-mirrorcos.akamaized.net
-127.0.0.1 upos-hz-mirrorhw.akamaized.net
-127.0.0.1 upos-hz-mirrorfw.akamaized.net
-127.0.0.1 upos-hz-mirroryt.akamaized.net
-127.0.0.1 upos-hz-mirroryh.akamaized.net
-127.0.0.1 bilivideo.com
-127.0.0.1 biliapi.com
-127.0.0.1 bilibili.com
-
-# 其他国内常见广告域名（可选继续添加）
-127.0.0.1 sdk6.ibm.xtify.com
-127.0.0.1 sdk8.ibm.xtify.com
-127.0.0.1 counter.yadro.ru
